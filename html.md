@@ -37,7 +37,7 @@ HTML, which stands for HyperText Markup Language, is the foundational language o
 ```
 ### HTML images
 ``` html
-<img src="......" alt="alternative message" width = __   height= > 
+<img src="......" alt="alternative msg" width = __   height= > 
 ```
 
 
