@@ -39,6 +39,34 @@ HTML, which stands for HyperText Markup Language, is the foundational language o
 ``` html
 <img src="......" alt="alternative msg" width = __   height= > 
 ```
+### HTML Table
+```html
+<table border = 1>
+ <tr>
+  <th> Name </th>
+  <th> Age </th>
+ </tr>
+ <tr>
+  <td>Ram</td>
+  <td>23</td>
+ </tr>
+</table>
+```
+### HTML List
+#### Ordered List
+```html
+<ol>
+ <li>Apple</li>
+ <li>Orange</li>
+</ol>
+```
+#### Unordered List
+```html
+<ul>
+ <li>Green</li>
+ <li>Blue</li>
+</ul>
+```
 
 
 
