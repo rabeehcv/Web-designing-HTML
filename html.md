@@ -6,11 +6,11 @@ HTML, which stands for HyperText Markup Language, is the foundational language o
 <!DOCTYPE html>
 <html>
     <head>
-        <title>............<title>
-    <head>
+        <title>............</title>
+    </head>
     <body>
         ...
-    <body>
+    </body>
 </html>
 ```
 ### Heading 
